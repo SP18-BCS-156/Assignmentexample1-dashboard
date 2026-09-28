@@ -35,7 +35,7 @@ def get_gdp_data():
     # - GDP for 1960
     # - GDP for 1961
     # - GDP for 1962
-    # - ...
+    
     # - GDP for 2022
     #
     # ...but I want this instead:
